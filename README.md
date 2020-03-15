@@ -6,10 +6,11 @@ A section component with background image for use in Gatsby
 ``gatsby-transformer-sharp``
 ``gatsby-plugin-sharp``
 ``gatsby-background-image``
+``prop-types``
 
 
 ```
-yarn add gatsby-background-image gatsby-transformer-sharp gatsby-plugin-sharp
+yarn add gatsby-background-image gatsby-transformer-sharp gatsby-plugin-sharp prop-types
 ```
 
 **More information about these dependencies**
